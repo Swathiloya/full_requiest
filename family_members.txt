@@ -1,0 +1,11 @@
+s.nofamily_members*relation
+1venkataraju*father
+2dhanalakshmi*mother
+3gopalakrishna*brother
+4dasaradharamayya*grandfather
+5nagedhramma*grandmother
+6bhogiraju*brother_in_law
+7najajyothi*sister
+8lakshmana*uncle
+9umadevi*aunt
+10poojitha*sister
